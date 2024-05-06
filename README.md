@@ -1,9 +1,8 @@
 ## EX-01 INTERFACING DIGITAL INPUT SENSOR WITH ARDUINO PUSH BUTTON
 ## DATE : 26.02.2024
-## NAME : ROHIT KUMAR M																		             
+## NAME : ROHIT KUMAR M																             
 ## ROLLNUMBER :212221220045
 ## DEPARTMENT : INFORMATION TECHNOLOGY
-
 
 ## AIM:
 To interface a digital input (push button) and blink and LED upon activation.
@@ -32,15 +31,15 @@ SRAM	1 KB (ATmega168) or 2 KB (ATmega328)
 EEPROM	512 bytes (ATmega168) or 1 KB (ATmega328)
 Clock Speed	16 MHz
 
-
-
 ## PIN DIAGRAM FOR ATMEGA 328
  
 ![image](https://user-images.githubusercontent.com/36288975/163530394-115baee4-7ed1-49fe-9cce-d7b625e11e85.png)
 
+FIGURE-01
 
 ![image](https://user-images.githubusercontent.com/36288975/163530431-4d390e98-0942-42d8-95b8-f57d348e6ad8.png)
 
+FIGURE-02
 
 ## PROCEDURE 
  Open tinker cad account 
@@ -55,6 +54,8 @@ Clock Speed	16 MHz
 ## CIRCUIT DIAGRAM 
 
 ![image](https://user-images.githubusercontent.com/36288975/163530437-87a0afbd-b3c9-44ad-b907-5de63486fb9d.png)
+
+FIGURE -03
 
 ![image](https://github.com/rohitkumar20700000/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/blob/main/EX-01%20Rohit%20kumar%20M(212221220045)_page-0001.jpg)
 
@@ -96,11 +97,12 @@ void loop()
 
 ## OUTPUT OF SIMULATION :
 
-
+## ON
 ![image](https://github.com/rohitkumar20700000/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/blob/main/Screenshot%202024-02-16%20154740.png)
-![image](https://github.com/rohitkumar20700000/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/blob/main/Screenshot%202024-02-16%20160059.png)
 
+## OFF
 
+![image](https://github.com/rohitkumar20700000/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/130482461/ff714c6c-01c9-44d1-8c3b-260e26594adc)
 
 
 
