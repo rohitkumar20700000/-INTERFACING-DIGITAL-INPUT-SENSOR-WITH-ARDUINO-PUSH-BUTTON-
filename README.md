@@ -64,7 +64,15 @@ FIGURE -03
 
 ![image](https://github.com/rohitkumar20700000/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/blob/main/EX-01%20Rohit%20kumar%20M(212221220045)_page-0001.jpg)
 
-
+##
+##
+##
+##
+##
+##
+##
+##
+##
 ## PROGRAM 
 ```
 int led=3;
