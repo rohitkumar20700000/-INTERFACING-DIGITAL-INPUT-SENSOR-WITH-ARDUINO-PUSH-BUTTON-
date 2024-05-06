@@ -33,7 +33,6 @@ SRAM	1 KB (ATmega168) or 2 KB (ATmega328)
 EEPROM	512 bytes (ATmega168) or 1 KB (ATmega328)
 Clock Speed	16 MHz
 
-
 ## PIN DIAGRAM FOR ATMEGA 328
  
 ![image](https://user-images.githubusercontent.com/36288975/163530394-115baee4-7ed1-49fe-9cce-d7b625e11e85.png)
